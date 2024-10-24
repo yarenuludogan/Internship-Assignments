@@ -1,0 +1,511 @@
+[
+    {
+      "images": ["https://sky-static.mavi.com/mnresize/820/1162/0081083030_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0081083030_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0081083030_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0081083030_image_4.jpg"],
+
+      "name": "MILAN",
+      "subtitle": "Tapered,Normal Bel",
+      "price": "1.299,99 TL",
+      "choosesize":"Beden Seç",
+     "sizes":["26","27","28","29","30", "31", "32","33","34","35","36","38","40" ]
+      
+    },
+
+    {
+      "images": ["https://sky-static.mavi.com/mnresize/820/1162/0110392-87538_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0110392-87538_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0110392-87538_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0110392-87538_image_4.jpg"],
+      
+      "name": "Kahverengi Suni Süet Ceket",
+      "subtitle": "Loose Fit / Bol Rahat Kesim",
+      "price": "2.599,99 TL",
+      
+    "sizes":["XS","S", "M","L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+    
+    
+    },
+    {
+     
+      "name": "DYLAN",
+      "subtitle": "Regular Straight,Normal Bel",
+      "price": "1.199,99 TL",
+      "images":[ "https://sky-static.mavi.com/mnresize/820/1162/0010379-88294_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0010379-88294_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0010379-88294_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0010379-88294_image_4.jpg"]
+      ,
+      "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+    }
+    ,{
+        "name": "DYLAN",
+        "subtitle": "Regular Straight,Normal Bel",
+        "price": "1.199,99 TL",
+
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0010379-88292_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0010379-88292_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0010379-88292_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0010379-88292_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      }
+      ,{
+        
+        "name": "Antrasit Basic Tişört",
+        "subtitle": "Loose Fit / Bol rahat Kesim",
+        "price": "599,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0612265-70092_image_3.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0612265-70092_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0612265-70092_image_3.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0612265-70092_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      }
+      ,{
+        
+        "name": "Kısa Kollu Beyaz Triko",
+        "subtitle": "Loose Fit / Bol rahat Kesim",
+        "price": "999,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0710230-70057_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0710230-70057_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0710230-70057_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0710230-70057_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      }
+      ,{
+       
+        "name": "Siyah Blazer Ceket",
+        "subtitle": "Regular Fit / Normal Kesim",
+        "price": "1.079,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0110429-900_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110429-900_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110429-900_image_3.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0110429-900_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      }
+      ,{
+        "name": "Cep Detaylı Bej Ceket",
+        "subtitle": "Regular Fit / Normal Kesim",
+        "price": "1.799,99 TL",
+        
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0110427-70144_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110427-70144_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110427-70144_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110427-70144_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      }
+      ,{
+        
+        "name": "Bisiklet Yaka Beyaz Basic Tişört",
+        "subtitle": "Loose Fit / Bol Rahat Kesim",
+        "price": "599,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0612269-70057_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0612269-70057_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0612269-70057_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0612269-70057_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      }
+      ,{
+        
+        "name": "Gri Pantolon",
+        "subtitle": "Slim Straight,Normal Bel",
+        "price": "1.299,99 TL",
+        "images":[ "https://sky-static.mavi.com/mnresize/820/1162/0010316-70144_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0010316-70144_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0010316-70144_image_3.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0010316-70144_image_4.jpg"]
+        ,
+        "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      }
+      ,{
+        
+        "name": "Jake Mavi Black Sisli Gri Gabardin Pantolon",
+        "subtitle": "Skinny,Normal Bel",
+        "price": "1.199,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0042286582_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042286582_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0042286582_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042286582_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      }
+      
+      ,{
+        
+        "name": "Jake Mavi Black Bej Gabardin Pantolon",
+        "subtitle": "Skinny,Normal Bel",
+        "price": "1.199,99 TL",
+        "images":[ "https://sky-static.mavi.com/mnresize/820/1162/0042288058_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042288058_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042288058_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042288058_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      },
+      {
+       
+        "name": "Kahverengi Gömlek",
+        "subtitle": "Regular Fit / Normal Kesim",
+        "price": "1.199,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0211093-70260_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0211093-70260_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0211093-70260_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0211093-70260_image_4.jpg"]
+        ,
+        "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "James Soluk Bej Comfort Gabardin Pantolon",
+        "subtitle": "Skinny,Normal Bel",
+        "price": "999,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0042483625_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042483625_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0042483625_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0042483625_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      },
+      {
+        
+        "name": "Kapüşonlu Gri Ceket",
+        "subtitle": "Loose Fit / Bol Rahat Kesim",
+        "price": "1.199,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0110366-80776_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110366-80776_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110366-80776_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110366-80776_image_4.jpg"]
+        ,
+        "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "Bisiklet Yaka Beyaz Basic Tişört",
+        "subtitle": "Loose Fit / Bol Rahat Kesim",
+        "price": "499,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0612267-70057_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0612267-70057_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0612267-70057_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0612267-70057_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "Kapşonlu Bej Ceket",
+        "subtitle": "Oversize / Geniş Kesim",
+        "price": "1.199,99 TL",
+        "images":[ "https://sky-static.mavi.com/mnresize/820/1162/0110367-86749_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0110367-86749_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0110367-86749_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110367-86749_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "Gri Tencel TM Lyocell Basic Tişört",
+        "subtitle": "Loose Fit / Bol Rahat Kesim",
+        "price": "599,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0612266-70146_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0612266-70146_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0612266-70146_image_3.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0612266-70146_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "Pembe Gömlek",
+        "subtitle": "Fitted / Vücuda Oturan Kesim",
+        "price": "799,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/020579-71042_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/020579-71042_image_2.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/020579-71042_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/020579-71042_image_4.jpg"]
+        ,
+        "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+       
+        "name": "Beyaz Gömlek",
+        "subtitle": "Slim Fit / Dar Kesim",
+        "price": "899,99 TL",
+        "images":[ "https://sky-static.mavi.com/mnresize/820/1162/0210053-70039_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0210053-70039_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0210053-70039_image_3.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0210053-70039_image_4.jpg"]
+        ,
+        "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "Yeşil Gömlek",
+        "subtitle": "Regular Fit / Normal Kesim",
+        "price": "1.299,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0211104-71577_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0211104-71577_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0211104-71577_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0211104-71577_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+      {
+        
+        "name": "JAKE",
+        "subtitle": "Skinny,Normal Bel",
+        "price": "1.099,99 TL",
+        "images":[ "https://sky-static.mavi.com/mnresize/820/1162/0042287836_image_1.jpg",
+       "https://sky-static.mavi.com/mnresize/820/1162/0042287836_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042287836_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0042287836_image_4.jpg"]
+        ,
+        "choosesize":"Beden Seç",
+       "sizes":[
+        
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      },
+
+      {
+        
+        "name": "Kapüşonlu Haki Ceket",
+        "subtitle": "Regular Fit / Normal Kesim",
+        "price": "2.299,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0110363-86764_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110363-86764_image_2.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110363-86764_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0110363-86764_image_4.jpg"]
+        ,
+
+        "sizes":[
+
+        "XS","S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        
+      ]
+      },
+
+      {
+        
+        "name": "Siyah Pantolon",
+        "subtitle": "Slim Straight,Normal Bel",
+        "price": "1.299,99 TL",
+        "images": ["https://sky-static.mavi.com/mnresize/820/1162/0010316-900_image_1.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0010316-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0010316-900_image_3.jpg",
+        "https://sky-static.mavi.com/mnresize/820/1162/0010316-900_image_4.jpg"]
+        ,
+       "sizes":[
+
+        "26","27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32","33","34","35","36","38","40"
+
+        
+      ]
+      }
+  ]
+  
